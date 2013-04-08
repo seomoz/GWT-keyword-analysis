@@ -1,0 +1,10 @@
+Query,Impressions,Clicks,CTR,Avg. position
+first query,50,16,32%,2.4
+second query,"1,000",100,10%,1.2
+third with missing,15,<10,-,3.4
+fourth query,<10,-,-,3.8
+searching for something,"1,555",555,36%,2.9
+result at low rank,20,10,50%,8.1
+tail at low rank,<10,-,-,9.6
+tail at low rank second,20,<10,-,7.7
+last one,"25,000","5,000",20%,3.8
